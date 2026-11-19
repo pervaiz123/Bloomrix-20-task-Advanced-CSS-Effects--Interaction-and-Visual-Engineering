@@ -1,0 +1,9 @@
+{
+  "name": "forme-objects-in-motion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive product showcase and creative portfolio with advanced CSS and accessible vanilla JavaScript interactions.",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}

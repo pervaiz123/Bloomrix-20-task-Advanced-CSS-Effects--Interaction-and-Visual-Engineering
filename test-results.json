@@ -1,0 +1,126 @@
+{
+  "passed": 24,
+  "failed": 0,
+  "checks": [
+    {
+      "test": "Three product cards",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Six portfolio cards",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "All artwork images load",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Scroll timelines supported/enhanced",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Theme switch and persistence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Product quick-view opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Add-to-bag live feedback",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Modal closes with Escape",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Project lightbox opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Filter menu keyboard focus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Filter menu arrow key navigation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Filter menu Escape dismissal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Category filter shows two cards",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Accordion expands",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Product card 3D pointer transform",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Scroll progress updates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Desktop no horizontal overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Mobile no horizontal overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Mobile nav opens accessibly",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Mobile nav closes after selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Tablet no horizontal overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "System light preference used when no override",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Reduced motion removes decorative animation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "No uncaught JavaScript errors",
+      "passed": true,
+      "detail": "[]"
+    }
+  ]
+}
